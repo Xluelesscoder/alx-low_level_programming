@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- *main - Program that prints size of various types on computer types
- *Return 0
+ *main -Entry point Program that prints size of various types on computer types
+ *Return: 0
 */
 
 int main(void)
