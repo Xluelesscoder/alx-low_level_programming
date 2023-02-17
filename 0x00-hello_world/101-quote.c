@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - prints quote followed by standard error
- * Return 1
+ * main -Entry point prints quote followed by standard error
+ * Return: 1
  */
 int main(void)
 {
