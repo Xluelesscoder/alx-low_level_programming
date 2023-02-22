@@ -1,12 +1,12 @@
 #include "main.h"
-	/**
-	 *main -Entry point print -putchar
-	 * 
-	 *
-	 * Return: 0 On success
-	 * 
-	 */
- int  main(void)
+/**
+*main - Entry point print -putchar
+*
+*
+*Return: 0 On success
+*
+*/
+int  main(void)
 {
 _putchar('_');
 _putchar('p');
@@ -17,5 +17,5 @@ _putchar('h');
 _putchar('a');
 _putchar('r');
 _putchar('\n');
- return (0);
+return (0);
 }
