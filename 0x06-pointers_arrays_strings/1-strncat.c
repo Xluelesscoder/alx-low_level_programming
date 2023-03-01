@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _strncat - Concatination of two strings using 
- * most inputted number of bytes from src.
+ * _strncat - Concatination of two strings using
+ *most inputted number of bytes from src.
  *
  * @dest: destination string
  * @src: source string
