@@ -1,10 +1,10 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * _strcat - overwriting strings
- * @dest : destination string
- * @src : source string
- * Return : A pointer to the resulting string dest
+ * _strcat - Concatenates strings
+ * @dest: destination string
+ * @src: source string
+ * Return: pointer to the resulting string dest
  */
 char *_strcat(char *dest, char *src)
 {
