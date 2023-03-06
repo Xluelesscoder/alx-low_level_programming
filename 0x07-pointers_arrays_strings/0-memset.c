@@ -1,12 +1,12 @@
 #include "main.h"
 /**
- * _memset - fills memory constant byte
+ * _memset - fills memory with  constant byte
  *
- * @s: memory area pointed to by s
+ * @s: memory pointed to by s
  *
  * @b: the constant byte b
  *
- * @n: the first n byte
+ * @n: the first n bytes
  *
  * Return: Pointer to memory area s
  */
