@@ -1,7 +1,6 @@
 #include "main.h"
-
 /**
- * _pow - calculates (base ^ power)
+ * _pow - calculates  (base ^ power)
  * @base: base of the exponent
  * @power: power of the exponent
  *
@@ -17,9 +16,8 @@ unsigned long int _pow(unsigned int base, unsigned int power)
 		num *= base;
 	return (num);
 }
-
 /**
- * print_binary - prints a number in binary notation
+ * print_binary - prints  number in binary notation
  * @n: number to print
  *
  * Return: void
